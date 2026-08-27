@@ -16,6 +16,14 @@
     "download_url": "https://github.com/alitudil/tinymce-editor/archive/refs/heads/main.zip"
   },
   {
+  "slug": "file-manager",
+  "name": "File Manager & Media Library",
+  "version": "1.2.0",
+  "author": "Wardok Studio",
+  "description": "Upload, browse, delete, and copy direct links for images, PDFs, and files.",
+  "download_url": "https://github.com/alitudil/file-manager/archive/refs/heads/main.zip"
+},
+  {
     "slug": "ai-workspace",
     "name": "AI Content Workspace",
     "version": "1.0.0",
