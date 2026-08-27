@@ -1,10 +1,26 @@
 [
   {
-    "slug": "ai-workspace",
-    "name": "AI Workspace",
+    "slug": "wardok-seo",
+    "name": "Wardok SEO & Sitemap",
     "version": "1.0.0",
     "author": "Wardok Studio",
-    "description": "AI Workspace to make content easier.",
-    "download_url": "https://github.com/alitudil/WardokCMS-Plugins/raw/main/ai-workspace.zip"
+    "description": "Generates dynamic XML Sitemaps, robots.txt, and OpenGraph social meta cards for search engines.",
+    "download_url": "https://github.com/alitudil/wardok-seo/archive/refs/heads/main.zip"
+  },
+  {
+    "slug": "tinymce-editor",
+    "name": "TinyMCE Visual Editor",
+    "version": "1.0.0",
+    "author": "Wardok Studio",
+    "description": "Visual WYSIWYG word processor editor for formatting blog posts and pages.",
+    "download_url": "https://github.com/alitudil/tinymce-editor/archive/refs/heads/main.zip"
+  },
+  {
+    "slug": "ai-workspace",
+    "name": "AI Content Workspace",
+    "version": "1.0.0",
+    "author": "Wardok Studio",
+    "description": "Brainstorming and content drafting assistant with real-time streaming and reasoning models.",
+    "download_url": "https://github.com/alitudil/ai-workspace/archive/refs/heads/main.zip"
   }
 ]
