@@ -10,7 +10,7 @@
   {
     "slug": "tinymce-editor",
     "name": "TinyMCE Visual Editor",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "author": "Wardok Studio",
     "description": "Visual WYSIWYG word processor editor for formatting blog posts and pages.",
     "download_url": "https://github.com/alitudil/tinymce-editor/archive/refs/heads/main.zip"
